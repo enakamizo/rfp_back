@@ -2,3 +2,5 @@ venv/
 *.pyc
 __pycache__/
 .env
+rfp_back.git.bfg-report/
+rfp_back.git/

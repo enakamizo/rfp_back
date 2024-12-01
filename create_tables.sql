@@ -1,4 +1,6 @@
-﻿-- データベースを選択
+﻿CREATE DATABASE IF NOT EXISTS hamadasan_lec;
+
+-- データベースを選択
 USE hamadasan_lec;
 
 -- クイズテーブルを作成
